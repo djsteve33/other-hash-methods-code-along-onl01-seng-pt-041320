@@ -10,6 +10,5 @@ def get_the_values(groceries)
  meat: ["chicken", "steak", "salmon"],
 grains: ["rice", "pasta"]
 }
-binding.pry
   groceries.values.flatten
 end
